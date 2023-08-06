@@ -19,6 +19,8 @@ def submit_button_click():
 
     # Close the window after processing the text
     root.destroy()
+    import graph_page
+    graph_page.main()
 
 def main():
     global root  # Make root a global variable

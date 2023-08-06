@@ -1,7 +1,162 @@
 {
-    "2023-08-05": {
-        "text": "Hello today was a very sad day, my car broke, my house broke, my entire family everything broke broke broke. I am very sad and very depressed. \n",
+    "2023-08-07": {
+        "text": "Felt a sudden pang of grief today remembering my old dog. I miss him so much.",
+        "emotion": "grief",
+        "score": 0.8252398476600648
+    },
+    "2023-08-08": {
+        "text": "Had an argument with my best friend. It left me filled with remorse.",
+        "emotion": "remorse",
+        "score": 0.7423904767036438
+    },
+    "2023-08-09": {
+        "text": "Felt annoyance towards the constant construction noise next door. It's getting on my nerves.",
+        "emotion": "annoyance",
+        "score": 0.7625936279296875
+    },
+    "2023-08-10": {
+        "text": "Feeling embarrassment after tripping over in public. I hope no one saw me.",
+        "emotion": "embarrassment",
+        "score": 0.7592849731445312
+    },
+    "2023-08-11": {
+        "text": "Felt a wave of disappointment when my application for the job got rejected.",
+        "emotion": "disappointment",
+        "score": 0.8584632873535156
+    },
+    "2023-08-12": {
+        "text": "My feeling of sadness is overwhelming today. It's one of those difficult days.",
         "emotion": "sadness",
-        "score": 0.9564816355705261
+        "score": 0.8829383850097656
+    },
+    "2023-08-13": {
+        "text": "The car broke down on the way to work. Felt a surge of anger.",
+        "emotion": "anger",
+        "score": 0.8265933990478516
+    },
+    "2023-08-14": {
+        "text": "My favorite plant died. I feel a sense of loss and sadness.",
+        "emotion": "sadness",
+        "score": 0.8483924865722656
+    },
+    "2023-08-15": {
+        "text": "Felt confusion and disappointment when my package didn't arrive today as expected.",
+        "emotion": "disappointment",
+        "score": 0.8029375076293945
+    },
+    "2023-08-16": {
+        "text": "I was late for an important meeting. Felt embarrassment and remorse.",
+        "emotion": "remorse",
+        "score": 0.7629375457763672
+    },
+    "2023-08-17": {
+        "text": "Felt a sense of grief when I heard the news about the passing of my old teacher.",
+        "emotion": "grief",
+        "score": 0.9129371643066406
+    },
+    "2023-08-18": {
+        "text": "The book I was looking forward to reading didn't meet my expectations. Feeling disappointment.",
+        "emotion": "disappointment",
+        "score": 0.7823925018310547
+    },
+    "2023-08-19": {
+        "text": "Felt annoyance at the long wait at the doctor's office today.",
+        "emotion": "annoyance",
+        "score": 0.752392590045929
+    },
+    "2023-08-20": {
+        "text": "I burned the dinner I was making. Felt a mix of annoyance and disappointment.",
+        "emotion": "disappointment",
+        "score": 0.7729382514953613
+    },
+    "2023-08-21": {
+        "text": "Felt remorse after lashing out at my sibling. I need to apologize.",
+        "emotion": "remorse",
+        "score": 0.8329377174377441
+    },
+    "2023-08-22": {
+        "text": "Feeling sadness and a sense of loss on the anniversary of a loved one's passing.",
+        "emotion": "sadness",
+        "score": 0.8929381370544434
+    },
+    "2023-08-23": {
+        "text": "Felt a wave of embarrassment when I called my colleague by the wrong name.",
+        "emotion": "embarrassment",
+        "score": 0.7829380035400391
+    },
+    "2023-08-24": {
+        "text": "Felt anger and disappointment when I saw the damage to my car from a hit and run.",
+        "emotion": "anger",
+        "score": 0.8929381370544434
+    },
+    "2023-08-25": {
+        "text": "A sense of grief washed over me as I visited my grandmother's grave today.",
+        "emotion": "grief",
+        "score": 0.8859376907348633
+    },
+    "2023-08-26": {
+        "text": "Felt annoyance at the constant interruptions during my focus time at work.",
+        "emotion": "annoyance",
+        "score": 0.7639374732971191
+    },
+    "2023-08-27": {
+        "text": "I felt remorse for not being there for my friend when they needed me the most.",
+        "emotion": "remorse",
+        "score": 0.853938102722168
+    },
+    "2023-08-28": {
+        "text": "Felt disappointment when the concert I was looking forward to got cancelled.",
+        "emotion": "disappointment",
+        "score": 0.853938102722168
+    },
+    "2023-08-29": {
+        "text": "Felt embarrassment when I spilled coffee on my white shirt during a meeting.",
+        "emotion": "embarrassment",
+        "score": 0.7739381790161133
+    },
+    "2023-08-30": {
+        "text": "Felt sadness and loneliness today. Missing the company of my friends.",
+        "emotion": "sadness",
+        "score": 0.8839383125305176
+    },
+    "2023-08-31": {
+        "text": "Felt a surge of anger when my flight got delayed for the third time this month.",
+        "emotion": "anger",
+        "score": 0.8139381408691406
+    },
+    "2023-09-01": {
+        "text": "Felt a sense of grief when I found out about the forest fires destroying wildlife habitats.",
+        "emotion": "grief",
+        "score": 0.9139385223388672
+    },
+    "2023-09-02": {
+        "text": "Felt annoyance when my new phone stopped working just a week after purchase.",
+        "emotion": "annoyance",
+        "score": 0.7539386749267578
+    },
+    "2023-09-03": {
+        "text": "Felt remorse for not standing up for myself during the argument. Need to work on this.",
+        "emotion": "remorse",
+        "score": 0.8539385795593262
+    },
+    "2023-09-04": {
+        "text": "Felt disappointment after my favorite team lost the championship match.",
+        "emotion": "disappointment",
+        "score": 0.853938102722168
+    },
+    "2023-09-05": {
+        "text": "Felt embarrassment when I tripped on stage during the presentation. Can't help but replay it in my mind.",
+        "emotion": "embarrassment",
+        "score": 0.793938159942627
+    },
+    "2023-09-06": {
+        "text": "Felt a wave of sadness after seeing the news about the earthquake victims. My thoughts are with them.",
+        "emotion": "sadness",
+        "score": 0.8939385414123535
+    },
+    "2023-08-06": {
+        "text": "Feeling quite nervous but excited as I prepare to record my hackathon video, hoping it showcases my hard work and passion.\n",
+        "emotion": "excitement",
+        "score": 0.7244232892990112
     }
 }
